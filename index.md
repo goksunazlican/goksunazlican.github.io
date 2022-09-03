@@ -1,7 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+## Nazlıcan GÖKSU
+
+I'm a software engineer at Soar Robotics.
+
+## Education
+
+### Bachelor's Degree
+    Computer Engineering - Ankara University 2016-2021
+    GPA: 3.56
